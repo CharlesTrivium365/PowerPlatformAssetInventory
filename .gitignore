@@ -1,0 +1,23 @@
+# Rapports generes par l'outil
+*.html
+
+# Secrets et configuration locale
+*.clixml
+*.cred
+secrets.ps1
+
+# Modules telecharges localement
+Modules/
+
+# Resultats de tests
+TestResults/
+testResults.xml
+
+# Fichiers systeme
+Thumbs.db
+.DS_Store
+
+# Editeurs
+.vs/
+.vscode/
+*.user
